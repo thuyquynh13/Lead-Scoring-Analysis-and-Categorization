@@ -26,3 +26,4 @@ We are going to use several steps in this case study in order to achieve the req
 9. Model Diagnosis
 
 ## 📝 Notebooks:
+[https://github.com/thuyquynh13/Lead-Scoring-Analysis-and-Prediction/blob/main/Lead%20Scoring%20-%20Data%20cleaning%2C%20EDA%2C%20Model%20Training.ipynb](url)
