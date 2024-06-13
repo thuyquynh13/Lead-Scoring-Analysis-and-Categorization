@@ -15,15 +15,11 @@ X Education wants to select the most promissing leads, i.e. the leads that are m
 
 ## 🎯 Solution:
 We are going to use several steps in this case study in order to achieve the requirement of the task:
-1. Data Exploration (EDA)
-2. Preprocessing
-3. Feature Engineering
-4. Outlier Analysis
-5. Model Building
-6. Model Performance Benchmarking
-7. Model Performance Evaluation
-8. Cross Validation + Hyperparameter Tuning
-9. Model Diagnosis
+1. Data Cleaning
+2. Data Exploration (EDA)
+3. Model Building
+4. Model Evaluation
+5. Observations & Recommendations
 
 ## 📝 Notebooks:
 [https://github.com/thuyquynh13/Lead-Scoring-Analysis-and-Prediction/blob/main/Lead%20Scoring%20-%20Data%20cleaning%2C%20EDA%2C%20Model%20Training.ipynb](url)
